@@ -1,0 +1,3 @@
+Fix possible crash in phone click handler.
+Нельзя ставть точку в конце опсания.
+Fix possible crash in phone click handler
