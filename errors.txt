@@ -1,3 +1,6 @@
 Fix possible crash in phone click handler.
 Нельзя ставть точку в конце опсания.
 Fix possible crash in phone click handler
+Implement a special context menu for sender userpic.
+Ограничивайте длину заголовка 50-ю символами.
+
